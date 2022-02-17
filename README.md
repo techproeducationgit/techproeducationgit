@@ -1,3 +1,4 @@
+<img src="https://github.com/techproeducationgit/techproeducationgit/blob/master/images/banner.jpg?raw=true">
 <h1 align="center">Techpro Education</h1>
 <h3 align="center">Professional Technology Education & Bootcamp</h3>
 
