@@ -2,11 +2,11 @@
 <h1 align="center">Techpro Education</h1>
 <h3 align="center">Professional Technology Education & Bootcamp</h3>
 
-<p align="center">TechPro Education is a bootcamp founded in 2019 by a group of passionate IT field experts with 10 years of teaching experience. They all have domain knowledge and are actively working in top Fortune 500 companies. As such, they witness industry progression first-hand and update the curricula where needed, making the course content always relevant.</p>
+<p align="justify">TechPro Education is a bootcamp founded in 2019 by a group of passionate IT field experts with 10 years of teaching experience. They all have domain knowledge and are actively working in top Fortune 500 companies. As such, they witness industry progression first-hand and update the curricula where needed, making the course content always relevant.</p>
 
 <p align="justify">TechPro Education aims to empower tech talent with in-depth technical knowledge so they can make significant contributions to their respective fields—be it Software, Automation, Data Science, Salesforce, Cyber Security, or DevOps. More importantly, it seeks to help learners build a robust skillset that can future-proof their careers.</p>
 
-<p align="center">While the World Increasingly Requires More Individuals Involved in Technology, TechPro Education Offers More Popular and Updated Tools With Certified and Experienced Instructors!</p>
+<p align="justify">While the World Increasingly Requires More Individuals Involved in Technology, TechPro Education Offers More Popular and Updated Tools With Certified and Experienced Instructors!</p>
 <p>&nbsp;</p>
 <table width="100%" align="center">
   <tr>
