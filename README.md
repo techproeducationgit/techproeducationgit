@@ -1,6 +1,6 @@
 <img src="https://github.com/techproeducationgit/techproeducationgit/blob/master/images/banner.jpg?raw=true">
 <h1 align="center">Techpro Education</h1>
-<h3 align="center">Professional Technology Education & Bootcamp</h3>
+<h3 align="center">Professional Technology Education, Online IT Courses, Bootcamps</h3>
 
 <p align="justify">TechPro Education is a bootcamp founded in 2019 by a group of passionate IT field experts with 10 years of teaching experience. They all have domain knowledge and are actively working in top Fortune 500 companies. As such, they witness industry progression first-hand and update the curricula where needed, making the course content always relevant.</p>
 
